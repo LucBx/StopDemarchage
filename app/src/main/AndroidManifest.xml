@@ -4,8 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="lbo.callscreener">
 
+    <!-- Used to whitelist numbers in the contact list -->
     <uses-permission android:name="android.permission.READ_CONTACTS"/>
-    <uses-permission android:name="android.permission.READ_CALL_LOG"/>
 
     <application
         android:name=".MainApplication"
