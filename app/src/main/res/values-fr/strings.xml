@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application name -->
+    <string name="app_name">Stop démarchage</string>
+
+    <!-- Sections titles -->
+    <string name="block_list_configuration">Liste des appels à bloquer</string>
+    <string name="blocking_configuration">Bloquer les appels rejetés</string>
+
+    <!-- Buttons legends -->
+    <string name="block_commercial_call">Bloquer les appels commerciaux</string>
+    <string name="block_mobiles">Bloquer les mobiles (06 et 07) inconnus</string>
+    <string name="block_outgoing">Bloquer les appels surtaxés sortants</string>
+
+    <string name="block_configuration">Configuration du blocage</string>
+    <string name="block_config_expl">Si les appels rejetés ne sont pas bloqués alors ils sont mis en silencieux.</string>
+</resources>

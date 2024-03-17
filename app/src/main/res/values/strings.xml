@@ -1,0 +1,16 @@
+<resources>
+    <!-- Application name -->
+    <string name="app_name">CallScreener</string>
+
+    <!-- Sections titles -->
+    <string name="block_list_configuration">Types of calls to block</string>
+    <string name="blocking_configuration">Block configuration</string>
+
+    <!-- Buttons legends -->
+    <string name="block_commercial_call">Block commercial calls</string>
+    <string name="block_mobiles">Block unknown mobile numbers</string>
+    <string name="block_outgoing">Block commercial outgoing calls</string>
+
+    <string name="block_configuration">Block rejected calls</string>
+    <string name="block_config_expl">If calls are not blocked they are silenced.</string>
+</resources>
