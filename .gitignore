@@ -43,3 +43,6 @@ app/proguard-rules.pro
 
 #Graphics
 graphics/
+
+# Release
+app/release/
