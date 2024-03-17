@@ -40,3 +40,6 @@ google-services.json
 # Local configurations
 local.properties
 app/proguard-rules.pro
+
+#Graphics
+graphics/
